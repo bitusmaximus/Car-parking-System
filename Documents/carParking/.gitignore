@@ -1,9 +1,0 @@
-*.elf
-*.o
-*.map
-*.d
-*.bak
-*.~*
-*.tmp
-Debug/
-Release/
